@@ -2,6 +2,10 @@
 
 Igor Dominiski - RM562055 Murillo Akira - RM561886 Murilo Canestri - RM564053
 
+## Demonstração:
+
+https://youtu.be/U7_yZ9W-Dq8
+
 ## 🧠 Global Solution – Curva do Conhecimento no Futuro do Trabalho
 
 ### 📘 Descrição do Projeto
