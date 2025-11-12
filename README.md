@@ -1,6 +1,6 @@
 ## Integrantes:
 
-
+Igor Dominiski - RM562055 Murillo Akira - RM561886 Murilo Canestri - RM564053
 
 ## 🧠 Global Solution – Curva do Conhecimento no Futuro do Trabalho
 
